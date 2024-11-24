@@ -1,0 +1,1 @@
+I created this repo to setup gitpages, which is basically a way to serve static webpages. I'm planning on creating and hosting a personal website here, and that's why I set this all up. It doesn't do anything YET, but it will later!
